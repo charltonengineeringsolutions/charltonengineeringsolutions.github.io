@@ -4600,6 +4600,40 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-vfAL7deI2K {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #edefeb;
+}
+.cid-vfAL7deI2K .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vfAL7deI2K .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vfAL7deI2K .card-wrapper {
+  background: #ffa0a0;
+  padding: 2.5rem;
+}
+@media (max-width: 992px) {
+  .cid-vfAL7deI2K .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vfAL7deI2K .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-vfAL7deI2K .row {
+  justify-content: space-between;
+}
 .cid-v9f4L0RQnG {
   padding-top: 6rem;
   padding-bottom: 6rem;
